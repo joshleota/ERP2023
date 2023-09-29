@@ -1,2 +1,2 @@
-# ERP2023
+# ERP2023 Data Availability Statement
 # The dataset associated with this study comprises regularly collected physiological and healthcare data as well as demographic information. Given its sensitive nature and the potential for reidentification, access to the dataset is enforced through an application process. For inquiries regarding data access, please contact support@whoop.com. All data requests will be assessed and addressed in accordance with policies designed to safeguard participant and user confidentiality, as outlined in the terms and conditions and informed consent documentation.
